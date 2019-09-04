@@ -20,6 +20,6 @@ This work is presented in the research paper : A Three Tier Rapid Mass Programmi
 As originally proposed and envisioned by Tyler Steane, with technical work completed by Micheal Trifilo (software) & Christopher Rogash (hardware) as over seen by Tyler Steane & Dr. PJ Radcliffe.
 
 # Citation
-Please make use of this project in any of your own work (See LICENSE.MIT), If using any part of this work please cite as:
+Please make use of this project in any of your own work (See [LICENSE](https://github.com/TylerSteane/Three-Tier-ESP-Testbed-Tower/blob/master/LICENSE)), If using any part of this work please cite as:
 
 T. Steane, M. Trifilo, C. Rogash and PJ Radcliffe, "A Three Tier Rapid Mass Programming Method", 2019, unpublished.
