@@ -22,4 +22,4 @@ As originally proposed and envisioned by Tyler Steane, with technical work compl
 # Citation
 Please make use of this project in any of your own work (See [LICENSE](https://github.com/TylerSteane/Three-Tier-ESP-Testbed-Tower/blob/master/LICENSE)), If using any part of this work please cite as:
 
-T. Steane, M. Trifilo, C. Rogash and PJ Radcliffe, "A Three Tier Rapid Mass Programming Method", MethodsX, 2019, In-Press.
+T. Steane, M. Trifilo, C. Rogash, and P. J. Radcliffe, “A three tier rapid mass programming method,” MethodsX, vol. 6, pp. 2396–2407, Jan. 2019.
